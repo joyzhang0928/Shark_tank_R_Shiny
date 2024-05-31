@@ -1,4 +1,4 @@
-# Shark_tank_R_Shiny
+# Shark tank R Shiny Project
 
 Hi there! I'm Joy Zhang, and I'm truly passionate about leveraging data to make smart investment decisions. This project leverages the Kaggle Shark Tank dataset to create a Shiny app to analyze the investment patterns and outcomes of the show.
 
