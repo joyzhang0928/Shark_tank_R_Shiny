@@ -2,7 +2,16 @@
 
 Hi there! I'm Joy Zhang, and I'm truly passionate about leveraging data to make smart investment decisions. This project leverages the Kaggle Shark Tank dataset to create a Shiny app to analyze the investment patterns and outcomes of the show.
 
-The Shiny application comprehensively analyzes "Shark Tank" sharks' investment patterns, examining their commitments by industry, gender, geographical distribution, deal closure rates, and TV viewership influence. It analyzes pitches using scatterplots to categorize deals based on initial and final amounts and equity, with histograms comparing viewership for successful and unsuccessful pitches and treemaps displaying distribution across industries and sharks. Interactive visuals such as scatterplots, treemaps, and histograms allow for deeper exploration of pitches and deals. A data access and search tool enables users to search detailed historical deal data by season, episode, and shark.
+Sharks' Analysis: Examines "Shark Tank" sharks' investment patterns by industry, gender, geographical distribution, deal closure rates, and TV viewership influence.
+
+Pitchers' Analysis: Analyzes pitches using scatterplots for initial and final amounts and equity, with histograms comparing viewership for successful and unsuccessful pitches and treemaps showing industry and shark distributions.
+
+Interactive Visuals: Offers interactive scatterplots, treemaps, and histograms to explore data on pitches and deals, focusing on industry involvement, deal quality, and viewership trends.
+
+Data Access and Search Tool: Provides a searchable data table for detailed historical deal data by season, episode, and shark, facilitating easy access to investment records.
+
+Predictive Modeling and Analysis: Uses logistic regression to forecast pitch outcomes with a maximum accuracy of 0.6, highlighting the challenges and constraints in prediction.
+
 
 ## Data
 
