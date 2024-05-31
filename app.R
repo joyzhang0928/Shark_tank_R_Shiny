@@ -8,9 +8,6 @@ library(tidyverse)
 library(maps)
 library(plotly)
 
-rsconnect::setAccountInfo(name='joyzhang2024',
-                          token='0453C6F8E1743519A580273CDA3F486A',
-                          secret='GAJ6n7CCo3xjGymF2UT4Ykyme8NhHBaPojH1Tf1S')
 
 
 # Load the data
