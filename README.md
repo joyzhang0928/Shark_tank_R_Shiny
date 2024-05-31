@@ -4,7 +4,7 @@ Hi there! I'm Joy Zhang, and I'm truly passionate about leveraging data to make 
 
 Sharks' Analysis: Examines "Shark Tank" sharks' investment patterns by industry, gender, geographical distribution, deal closure rates, and TV viewership influence.
 
-Pitchers' Analysis: Analyzes pitches using scatterplots for initial and final amounts and equity, with histograms comparing viewership for successful and unsuccessful pitches and treemaps showing industry and shark distributions.
+Pitchers' Analysis: Analyzes pitches using scatterplots for initial and final amounts and equity, with histograms comparing viewership for successful and unsuccessful pitches, and treemaps showing industry and shark distributions.
 
 Interactive Visuals: Offers interactive scatterplots, treemaps, and histograms to explore data on pitches and deals, focusing on industry involvement, deal quality, and viewership trends.
 
