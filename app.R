@@ -695,9 +695,7 @@ server <- function(input, output,session) {
         geo = list(scope = 'usa', projection = list(type = 'albers usa'))
       )
     fig
-  })
-
-  
+  }) 
 }
 
 # Run the application
