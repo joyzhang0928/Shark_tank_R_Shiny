@@ -374,7 +374,7 @@ server <- function(input, output,session) {
       shark_long_data <- shark_long_data %>%
         mutate(Label = paste(Shark, "\n", n, " deals", sep = ""))
       
-      # Create treemap with the number of deals each shark invested in
+    # Create treemap with the number of deals each shark invested in
       treemap(shark_long_data,
               index = "Label",
               vSize = "n",
